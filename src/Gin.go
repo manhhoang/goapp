@@ -1,9 +1,9 @@
 //Download and install it:
-//$ go get gopkg.in/gin-gonic/gin.v1
+//$ go get github.com/gin-gonic/gin
 
 package main
 
-import "gopkg.in/gin-gonic/gin.v1"
+import "github.com/gin-gonic/gin"
 
 var DB = make(map[string]string)
 
