@@ -1,7 +1,7 @@
 //Download and install it:
 //$ go get github.com/gin-gonic/gin
 
-package main
+package learn_golang
 
 import "github.com/gin-gonic/gin"
 

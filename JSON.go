@@ -2,7 +2,7 @@
 // decoding, including to and from built-in and custom
 // data types.
 
-package main
+package learn_golang
 
 import "encoding/json"
 import "fmt"

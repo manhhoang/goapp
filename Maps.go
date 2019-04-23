@@ -1,7 +1,7 @@
 // _Maps_ are Go's built-in [associative data type](http://en.wikipedia.org/wiki/Associative_array)
 // (sometimes called _hashes_ or _dicts_ in other languages).
 
-package main
+package learn_golang
 
 import "fmt"
 

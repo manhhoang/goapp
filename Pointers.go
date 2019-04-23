@@ -2,7 +2,7 @@
 // allowing you to pass references to values and records
 // within your program.
 
-package main
+package learn_golang
 
 import "fmt"
 
