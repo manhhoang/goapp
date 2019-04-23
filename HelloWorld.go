@@ -1,6 +1,6 @@
 // Our first program will print the classic "hello world"
 // message. Here's the full source code.
-package learn_golang
+package main
 
 import "fmt"
 

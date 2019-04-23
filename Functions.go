@@ -1,7 +1,7 @@
 // _Functions_ are central in Go. We'll learn about
 // functions with a few different examples.
 
-package learn_golang
+package main
 
 import "fmt"
 

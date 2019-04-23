@@ -3,7 +3,7 @@
 // goroutine and receive those values into another
 // goroutine.
 
-package learn_golang
+package main
 
 import "fmt"
 

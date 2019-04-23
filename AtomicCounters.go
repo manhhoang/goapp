@@ -5,7 +5,7 @@
 // look at using the `sync/atomic` package for _atomic
 // counters_ accessed by multiple goroutines.
 
-package learn_golang
+package main
 
 import "fmt"
 import "time"
